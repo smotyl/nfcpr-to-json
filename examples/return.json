@@ -1,0 +1,62 @@
+[
+    {
+        "date":"01/06/2019",
+        "quantity":"7",
+        "total":"20,15",
+        "paymentType":"Cartão de Débito 2",
+        "products":
+        [
+            [
+                {
+                    "description":"Gengibre Kg",
+                    "total":"2,72",
+                    "quantity":"0,262",
+                    "unity":"KG",
+                    "unityPrice":"10,38"
+                },
+                {
+                    "description":"Batata Kg",
+                    "total":"2,82",
+                    "quantity":"0,577",
+                    "unity":"KG",
+                    "unityPrice":"4,89"
+                },
+                {
+                    "description":"Deso San Pasti",
+                    "total":"4,98",
+                    "quantity":"1",
+                    "unity":"UN",
+                    "unityPrice":"4,98"
+                },
+                {
+                    "description":"Deso San Pasti",
+                    "total":"4,98",
+                    "quantity":"1",
+                    "unity":"UN",
+                    "unityPrice":"4,98"
+                },
+                {
+                    "description":"Naftalina Sany",
+                    "total":"1,75",
+                    "quantity":"1",
+                    "unity":"UN",
+                    "unityPrice":"1,75"
+                },
+                {
+                    "description":"Naftalina Sany",
+                    "total":"1,75",
+                    "quantity":"1",
+                    "unity":"UN",
+                    "unityPrice":"1,75"
+                },
+                {
+                    "description":"Cenoura Kg",
+                    "total":"1,15",
+                    "quantity":"0,343",
+                    "unity":"KG",
+                    "unityPrice":"3,35"
+                }
+            ]
+        ]
+    }
+]
